@@ -56,6 +56,7 @@ Antes de comenzar, asegurate de tener lo siguiente:
 
 ---
 
+
 ## Uso
 
 1. Scripts:
@@ -70,6 +71,9 @@ Figuras generadas durante el análisis descriptivo, incluidas las figuras utiliz
 4. Stores:
 Contiene los datos procesados de la GEIH en formato .csv, obtenidos mediante web scraping.
 
+---
+
+## Estructura del proyecto
 En resumen, el repositorio se distribuye así:
 PS1/
 ├── documents/        # Archivos PDF con resultados y conclusiones
